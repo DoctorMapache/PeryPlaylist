@@ -1,6 +1,6 @@
 # Peryssea · Setlist
 
-Reproductor local para la playlist de preparación del show en vivo.
+Perymierda internal setlist player :vV:vVV:vVVV:vvV:V:VVv:vv:V:v
 
 ## Desarrollo
 
